@@ -71,7 +71,7 @@ div.image {
 
 div.links {
   width: auto;
-  height: 100px;
+  height: auto;
   display: block;
   margin: auto;
   text-align: center;
