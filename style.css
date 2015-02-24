@@ -69,6 +69,13 @@ div.image {
   height: auto;
 }
 
+div.links {
+  width: auto;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
 div.content {
   width: 100%;
   height: auto;
