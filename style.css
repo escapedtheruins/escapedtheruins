@@ -70,8 +70,8 @@ div.image {
 }
 
 div.links {
-  width: auto;
-  height: 50%;
+  width: 80%;
+  height: auto;
   display: block;
   margin: auto;
 }
