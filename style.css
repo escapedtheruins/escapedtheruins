@@ -70,10 +70,11 @@ div.image {
 }
 
 div.links {
-  width: 80%;
-  height: auto;
+  width: auto;
+  height: 100px;
   display: block;
   margin: auto;
+  text-align: center;
 }
 
 div.content {
